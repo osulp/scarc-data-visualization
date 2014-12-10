@@ -246,7 +246,7 @@ Network = () ->
   # Returns modified data
   setupData = (data) ->
     # initialize circle radius scale
-    countExtent = d3.extent(data.nodes, (d) -> d.playcount)
+    countExtent = d3.extent(data.nodes, (d) -> 1)
     circleRadius = d3.scale.sqrt().range([3, 12]).domain(countExtent)
 
     data.nodes.forEach (n) ->
@@ -255,7 +255,7 @@ Network = () ->
       n.x = randomnumber=Math.floor(Math.random()*width)
       n.y = randomnumber=Math.floor(Math.random()*height)
       # add radius to the node so we can use it later
-      n.radius = circleRadius(n.playcount)
+      n.radius = circleRadius(1)
 
     # id's -> node objects
     nodesMap  = mapNodes(data.nodes)
@@ -263,8 +263,10 @@ Network = () ->
     # switch links to point to node objects instead of id's
     data.links.forEach (l) ->
       l.source = nodesMap.get(l.source)
+      console.log(l.target)
       l.target = nodesMap.get(l.target)
 
+      console.log(l)
       # linkedByIndex is used for link sorting
       linkedByIndex["#{l.source.id},#{l.target.id}"] = 1
 
@@ -522,5 +524,5 @@ $ ->
     searchTerm = $(this).val()
     myNetwork.updateSearch(searchTerm)
 
-  d3.json "data/call_me_al.json", (json) ->
+  d3.json "data/related_collections_links.json", (json) ->
     myNetwork("#vis", json)
