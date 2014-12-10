@@ -450,9 +450,10 @@ Network = () ->
 
   # Mouseover tooltip function
   showDetails = (d,i) ->
-    content = '<p class="main">' + d.name + '</span></p>'
+    content = '<p class="main">' + d["Collection Name"] + '</span></p>'
     content += '<hr class="tooltip-hr">'
-    content += '<p class="main">' + d.artist + '</span></p>'
+    content += '<p class="main">' + d["Dates"] + '</span></p>'
+    content += '<p class="main">' + d["Extent"] + '</span></p>'
     tooltip.showTooltip(content,d3.event)
 
     # higlight connected links
