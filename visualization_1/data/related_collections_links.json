@@ -1,275 +1,653 @@
-[
-  {
-    "Source":"Sighurd Medhus Papers",
-    "Target":"Air Force ROTC Photographs",
-  },
-  {
-    "Source":"Sighurd Medhus Papers",
-    "Target":"Air Force ROTC Motion Picture Films",
-  },
-  {
-    "Source":"Sighurd Medhus Papers",
-    "Target":"Reserve Officer Training Corps Records",
-  },
-  {
-    "Source":"Sighurd Medhus Papers",
-    "Target":"Oregon State University Military Photographs Collection",
-    
-  },
-  {
-    "Source":"Maple Manor Cooperative House Records",
-    "Target":"Oregon State College History of World War II Project Records",
-    
-  },
-  {
-    "Source":"Maple Manor Cooperative House Records",
-    "Target":"Oregon State Yank Collection",
-   
-  },
-  {
-    "Source":"Maple Manor Cooperative House Records",
-    "Target":"Wesley Ross Memoir of World War II",
-   
-  },
-  {
-    "Source":"Maple Manor Cooperative House Records",
-    "Target":"Oregon State University Sesquicentennial Oral History Collection",
-   
-  },
-  {
-    "Source":"Maple Manor Cooperative House Records",
-    "Target":"Alpha Lambda Delta Records",
-    
-  },
-  {
-    "Source":"Maple Manor Cooperative House Records",
-    "Target":"Delta Zeta Sorority Chi Chapter Scrapbook",
-    
-  },
-  {
-    "Source":"Army Specialized Training Program Records",
-    "Target":"College of Science Records",
-   
-  },
-  {
-    "Source":"Army Specialized Training Program Records",
-    "Target":"College of Engineering Records",
-    
-  },
-  {
-    "Source":"Army Specialized Training Program Records",
-    "Target":"Harriet's Collection",
-   
-  },
-  {
-    "Source":"Army Specialized Training Program Records",
-    "Target":"Claire Van Norman Papers",
-   
-  },
-  {
-    "Source":"Army Specialized Training Program Records",
-    "Target":"Reserve Officer Training Corps Records",
-    
-  },
-  {
-    "Source":"Army Specialized Training Program Records",
-    "Target":"Air Force ROTC Motion Picture Films",
-    
-  },
-  {
-    "Source":"Army Specialized Training Program Records",
-    "Target":"Students' Army Training Corps Records",
-    
-  },
-  {
-    "Source":"Elvin A. Duerst Papers",
-    "Target":"Ava Milam Clark Papers",
-    
-  },
-  {
-    "Source":"Elvin A. Duerst Papers",
-    "Target":"Wallace L. Kadderly Papers",
-    
-  },
-  {
-    "Source":"Elvin A. Duerst Papers",
-    "Target":"Agricultural and Resource Economics Department Records",
-   
-  },
-  {
-    "Source":"Elvin A. Duerst Papers",
-    "Target":"Emery N. Castle Papers",
-    
-  },
-  {
-    "Source":"Elvin A. Duerst Papers",
-    "Target":"D. Curtis Mumford Papers",
-   
-  },
-  {
-    "Source":"Elvin A. Duerst Papers",
-    "Target":"Fred W. Obermiller Papers",
-   
-  },
-  {
-    "Source":"Ava Milam Clark Papers",
-    "Target":"History of Oregon State University Oral Histories and Sound Recordings Collection",
-    
-  },
-  {
-    "Source":"Ava Milam Clark Papers",
-    "Target":"College of Home Economics Oral Histories Collection",
-   
-  },
-  {
-    "Source":"Ava Milam Clark Papers",
-    "Target":"College of Home Economics and Education Records",
-   
-  },
-  {
-    "Source":"Ava Milam Clark Papers",
-    "Target":"College of Home Economics and Education Photographs",
-   
-  },
-  {
-    "Source":"Ava Milam Clark Papers",
-    "Target":"Ava Milam & Jesse C. Clark Photographic Collection�",
-    
-  },
-  {
-    "Source":"College of Home Economics and Education Records",
-    "Target":"Apparels, Interiors, Housing, Merchandising Department Records",
-    
-  },
-  {
-    "Source":"College of Home Economics and Education Records",
-    "Target":"Nutrition and Food Management Department Records",
-    
-  },
-  {
-    "Source":"College of Home Economics and Education Records",
-    "Target":"Human Development and Family Sciences Department Records",
-   
-  },
-  {
-    "Source":"College of Home Economics and Education Records",
-    "Target":"School of Education Records",
-    
-  },
-  {
-    "Source":"College of Science Records",
-    "Target":"F. A. Gilfillan Papers",
-    
-  },
-  {
-    "Source":"College of Science Records",
-    "Target":"Atmospheric Sciences Department Records",
-    
-  },
-  {
-    "Source":"College of Science Records",
-    "Target":"Biochemistry and Biophysics Department Records",
-    
-  },
-  {
-    "Source":"College of Science Records",
-    "Target":"Botany and Plant Pathology Department Records",
-    
-  },
-  {
-    "Source":"College of Science Records",
-    "Target":"Chemistry Department Records",
-    
-  },
-  {
-    "Source":"College of Science Records",
-    "Target":"Entomology Department Records",
-    
-  },
-  {
-    "Source":"College of Science Records",
-    "Target":"Microbiology Department Records",
-   
-  },
-  {
-    "Source":"Helen Lepper Diary",
-    "Target":"Helen E. Plinkiewisch Papers",
-    
-  },
-  {
-    "Source":"Helen Lepper Diary",
-    "Target":"Lillian Jeffreys Petri Collection",
-   
-  },
-  {
-    "Source":"Helen Lepper Diary",
-    "Target":"Music Department Records",
-    
-  },
-  {
-    "Source":"Helen Lepper Diary",
-    "Target":"Hope Chamberlin Newspaper Columns",
-    
-  },
-  {
-    "Source":"Helen Lepper Diary",
-    "Target":"Spike Sisters Scrapbooks",
-    
-  },
-  {
-    "Source":"Helen Lepper Diary",
-    "Target":"Effie L. Wagner Scrapbook of the Women's Debate Tour",
-    
-    
-  },
-  {
-    "Source":"Helen Lepper Diary",
-    "Target":"Edmund R. Lyman Diary",
-   
-  },
-  {
-    "Source":"Helen Lepper Diary",
-    "Target":"Milton O. Stemmler Student Diary",
-   
-  },
-  {
-    "Source":"Helen Lepper Diary",
-    "Target":"Bernice Forest Diary",
-    
-  },
-  {
-    "Source":"Edwin Russell Jackman Papers",
-    "Target":"Extension Service Records",
-    
-  },
-  {
-    "Source":"Edwin Russell Jackman Papers",
-    "Target":"Edwin Russell Jackman Photographic Collection",
-    
-  },
-  {
-    "Source":"Edwin Russell Jackman Papers",
-    "Target":"Sarah Jackman Wilson Papers",
-    
-  },
-  {
-    "Source":"Wallace L. Kadderly Papers",
-    "Target":"KOAC Records",
-    
-  },
-  {
-    "Source":"Wallace L. Kadderly Papers",
-    "Target":"Agricultural Experiment Station Communications Photograph Collection",
-    
-  },
-  {
-    "Source":"Wallace L. Kadderly Papers",
-    "Target":"Extension Service Photograph Collection",
-    
-  },
-  {
-    "Source":"Wallace L. Kadderly Papers",
-    "Target":"Harriet's Collection",
-   
-  }
-]
+{ 
+  "links":
+    [
+    {
+      "Source":"Sighurd Medhus Papers",
+      "Target":"Air Force ROTC Photographs",
+    },
+    {
+      "Source":"Sighurd Medhus Papers",
+      "Target":"Air Force ROTC Motion Picture Films",
+    },
+    {
+      "Source":"Sighurd Medhus Papers",
+      "Target":"Reserve Officer Training Corps Records",
+    },
+    {
+      "Source":"Sighurd Medhus Papers",
+      "Target":"Oregon State University Military Photographs Collection",
+
+    },
+    {
+      "Source":"Maple Manor Cooperative House Records",
+      "Target":"Oregon State College History of World War II Project Records",
+
+    },
+    {
+      "Source":"Maple Manor Cooperative House Records",
+      "Target":"Oregon State Yank Collection",
+
+    },
+    {
+      "Source":"Maple Manor Cooperative House Records",
+      "Target":"Wesley Ross Memoir of World War II",
+
+    },
+    {
+      "Source":"Maple Manor Cooperative House Records",
+      "Target":"Oregon State University Sesquicentennial Oral History Collection",
+
+    },
+    {
+      "Source":"Maple Manor Cooperative House Records",
+      "Target":"Alpha Lambda Delta Records",
+
+    },
+    {
+      "Source":"Maple Manor Cooperative House Records",
+      "Target":"Delta Zeta Sorority Chi Chapter Scrapbook",
+
+    },
+    {
+      "Source":"Army Specialized Training Program Records",
+      "Target":"College of Science Records",
+
+    },
+    {
+      "Source":"Army Specialized Training Program Records",
+      "Target":"College of Engineering Records",
+
+    },
+    {
+      "Source":"Army Specialized Training Program Records",
+      "Target":"Harriet's Collection",
+
+    },
+    {
+      "Source":"Army Specialized Training Program Records",
+      "Target":"Claire Van Norman Papers",
+
+    },
+    {
+      "Source":"Army Specialized Training Program Records",
+      "Target":"Reserve Officer Training Corps Records",
+
+    },
+    {
+      "Source":"Army Specialized Training Program Records",
+      "Target":"Air Force ROTC Motion Picture Films",
+
+    },
+    {
+      "Source":"Army Specialized Training Program Records",
+      "Target":"Students' Army Training Corps Records",
+
+    },
+    {
+      "Source":"Elvin A. Duerst Papers",
+      "Target":"Ava Milam Clark Papers",
+
+    },
+    {
+      "Source":"Elvin A. Duerst Papers",
+      "Target":"Wallace L. Kadderly Papers",
+
+    },
+    {
+      "Source":"Elvin A. Duerst Papers",
+      "Target":"Agricultural and Resource Economics Department Records",
+
+    },
+    {
+      "Source":"Elvin A. Duerst Papers",
+      "Target":"Emery N. Castle Papers",
+
+    },
+    {
+      "Source":"Elvin A. Duerst Papers",
+      "Target":"D. Curtis Mumford Papers",
+
+    },
+    {
+      "Source":"Elvin A. Duerst Papers",
+      "Target":"Fred W. Obermiller Papers",
+
+    },
+    {
+      "Source":"Ava Milam Clark Papers",
+      "Target":"History of Oregon State University Oral Histories and Sound Recordings Collection",
+
+    },
+    {
+      "Source":"Ava Milam Clark Papers",
+      "Target":"College of Home Economics Oral Histories Collection",
+
+    },
+    {
+      "Source":"Ava Milam Clark Papers",
+      "Target":"College of Home Economics and Education Records",
+
+    },
+    {
+      "Source":"Ava Milam Clark Papers",
+      "Target":"College of Home Economics and Education Photographs",
+
+    },
+    {
+      "Source":"Ava Milam Clark Papers",
+      "Target":"Ava Milam & Jesse C. Clark Photographic Collection�",
+
+    },
+    {
+      "Source":"College of Home Economics and Education Records",
+      "Target":"Apparels, Interiors, Housing, Merchandising Department Records",
+
+    },
+    {
+      "Source":"College of Home Economics and Education Records",
+      "Target":"Nutrition and Food Management Department Records",
+
+    },
+    {
+      "Source":"College of Home Economics and Education Records",
+      "Target":"Human Development and Family Sciences Department Records",
+
+    },
+    {
+      "Source":"College of Home Economics and Education Records",
+      "Target":"School of Education Records",
+
+    },
+    {
+      "Source":"College of Science Records",
+      "Target":"F. A. Gilfillan Papers",
+
+    },
+    {
+      "Source":"College of Science Records",
+      "Target":"Atmospheric Sciences Department Records",
+
+    },
+    {
+      "Source":"College of Science Records",
+      "Target":"Biochemistry and Biophysics Department Records",
+
+    },
+    {
+      "Source":"College of Science Records",
+      "Target":"Botany and Plant Pathology Department Records",
+
+    },
+    {
+      "Source":"College of Science Records",
+      "Target":"Chemistry Department Records",
+
+    },
+    {
+      "Source":"College of Science Records",
+      "Target":"Entomology Department Records",
+
+    },
+    {
+      "Source":"College of Science Records",
+      "Target":"Microbiology Department Records",
+
+    },
+    {
+      "Source":"Helen Lepper Diary",
+      "Target":"Helen E. Plinkiewisch Papers",
+
+    },
+    {
+      "Source":"Helen Lepper Diary",
+      "Target":"Lillian Jeffreys Petri Collection",
+
+    },
+    {
+      "Source":"Helen Lepper Diary",
+      "Target":"Music Department Records",
+
+    },
+    {
+      "Source":"Helen Lepper Diary",
+      "Target":"Hope Chamberlin Newspaper Columns",
+
+    },
+    {
+      "Source":"Helen Lepper Diary",
+      "Target":"Spike Sisters Scrapbooks",
+
+    },
+    {
+      "Source":"Helen Lepper Diary",
+      "Target":"Effie L. Wagner Scrapbook of the Women's Debate Tour",
+
+
+    },
+    {
+      "Source":"Helen Lepper Diary",
+      "Target":"Edmund R. Lyman Diary",
+
+    },
+    {
+      "Source":"Helen Lepper Diary",
+      "Target":"Milton O. Stemmler Student Diary",
+
+    },
+    {
+      "Source":"Helen Lepper Diary",
+      "Target":"Bernice Forest Diary",
+
+    },
+    {
+      "Source":"Edwin Russell Jackman Papers",
+      "Target":"Extension Service Records",
+
+    },
+    {
+      "Source":"Edwin Russell Jackman Papers",
+      "Target":"Edwin Russell Jackman Photographic Collection",
+
+    },
+    {
+      "Source":"Edwin Russell Jackman Papers",
+      "Target":"Sarah Jackman Wilson Papers",
+
+    },
+    {
+      "Source":"Wallace L. Kadderly Papers",
+      "Target":"KOAC Records",
+
+    },
+    {
+      "Source":"Wallace L. Kadderly Papers",
+      "Target":"Agricultural Experiment Station Communications Photograph Collection",
+
+    },
+    {
+      "Source":"Wallace L. Kadderly Papers",
+      "Target":"Extension Service Photograph Collection",
+
+    },
+    {
+      "Source":"Wallace L. Kadderly Papers",
+      "Target":"Harriet's Collection",
+
+    }
+  ],
+    "nodes":
+      [
+      {
+        "Node":"Sighurd Medhus Papers",
+        "Collection Name":"Sighurd Medhus Papers",
+        "Dates":"1947-1949",
+        "Extent":".01 cubic feet"
+      },
+      {
+        "Node":"Air Force ROTC Photographs",
+        "Collection Name":"Air Force ROTC Photographs",
+        "Dates":"1988-2005",
+        "Extent":"1.15 cubic feet"
+      },
+      {
+        "Node":"Air Force ROTC Motion Picture Films",
+        "Collection Name":"Air Force ROTC Motion Picture Films",
+        "Dates":"1962",
+        "Extent":".05 cubic feet"
+      },
+      {
+        "Node":"Oregon State University Military Photograph Collection",
+        "Collection Name":"Oregon State University Military Photograph Collection",
+        "Dates":"1875-1975",
+        "Extent":"2 cubic feet"
+      },
+      {
+        "Node":"Oregon State College History of World War II Project Records",
+        "Collection Name":"Oregon State College History of World War II Project Records",
+        "Dates":"1940-1947",
+        "Extent":".04 cubic feet"
+      },
+      {
+        "Node":"Oregon State Yank Collection",
+        "Collection Name":"Oregon State Yank Collection",
+        "Dates":"1942-1945",
+        "Extent":"1.35 cubic feet"
+      },
+      {
+        "Node":"Wesley Ross Memoir of World War II",
+        "Collection Name":"Wesley Ross Memoir of World War II",
+        "Dates":"2009",
+        "Extent":".01 cubic feet"
+      },
+      {
+        "Node":"Oregon State University Sesquicentennial Oral History Collection",
+        "Collection Name":"Oregon State University Sesquicentennial Oral History Collection",
+        "Dates":"2013-2014",
+        "Extent":""
+      },
+      {
+        "Node":"Maple Manor Cooperative House Records",
+        "Collection Name":"Maple Manor Cooperative House Records",
+        "Dates":"1940-1995",
+        "Extent":"1.5 cubic feet"
+      },
+      {
+        "Node":"Alpha Lambda Delta Records",
+        "Collection Name":"Alpha Lambda Delta Records",
+        "Dates":"1933-1952",
+        "Extent":".3 cubic feet"
+      },
+      {
+        "Node":"Delta Zeta Sorority Chi Chapter Scrapbook",
+        "Collection Name":"Delta Zeta Sorority Chi Chapter Scrapbook",
+        "Dates":"1944",
+        "Extent":".15 cubic feet"
+      },
+      {
+        "Node":"Army Specialized Training Program Records",
+        "Collection Name":"Army Specialized Training Program Records",
+        "Dates":"1943-1946",
+        "Extent":"2 microfilm reels"
+      },
+      {
+        "Node":"College of Science Records",
+        "Collection Name":"College of Science Records",
+        "Dates":"1932-1973",
+        "Extent":".6 cubic feet"
+      },
+      {
+        "Node":"College of Engineering Records",
+        "Collection Name":"College of Engineering Records",
+        "Dates":"1930-2002",
+        "Extent":"23 cubic feet"
+      },
+      {
+        "Node":"Harriet's Collection",
+        "Collection Name":"Harriet's Collection",
+        "Dates":"1868-1996",
+        "Extent":"25 cubic feet"
+      },
+      {
+        "Node":"Clair V. Langton Papers",
+        "Collection Name":"Clair V. Langton Papers",
+        "Dates":"1914-1973",
+        "Extent":"11 cubic feet"
+      },
+      {
+        "Node":"Reserve Officer Training Corps Records",
+        "Collection Name":"Reserve Officer Training Corps Records",
+        "Dates":"1890-2009",
+        "Extent":"9 cubic feet"
+      },
+      {
+        "Node":"Students' Army Training Corps Records",
+        "Collection Name":"Students' Army Training Corps Records",
+        "Dates":"1918-1919",
+        "Extent":"10 cubic feet"
+      },
+      {
+        "Node":"Elvin A. Duerst Papers",
+        "Collection Name":"Elvin A. Duerst Papers",
+        "Dates":"1929-1993",
+        "Extent":"80 cubic feet"
+      },
+      {
+        "Node":"Ava Milam Clark Papers",
+        "Collection Name":"Ava Milam Clark Papers",
+        "Dates":"1888-1972",
+        "Extent":"6.6 cubic feet"
+      },
+      {
+        "Node":"Wallace L. Kadderly Papers",
+        "Collection Name":"Wallace L. Kadderly Papers",
+        "Dates":"1931-1963",
+        "Extent":"5 cubic feet"
+      },
+      {
+        "Node":"Agricultural and Resource Economics Department Records",
+        "Collection Name":"Agricultural and Resource Economics Department Records",
+        "Dates":"1909-2008",
+        "Extent":"32.5 cubic feet"
+      },
+      {
+        "Node":"Emery N. Castle Papers",
+        "Collection Name":"Emery N. Castle Papers",
+        "Dates":"1948-2003",
+        "Extent":"10.8 cubic feet"
+      },
+      {
+        "Node":"D. Curtis Mumford Papers",
+        "Collection Name":"D. Curtis Mumford Papers",
+        "Dates":"1903-1990",
+        "Extent":"75 cubic feet"
+      },
+      {
+        "Node":"Fred W. Obermiller Papers",
+        "Collection Name":"Fred W. Obermiller Papers",
+        "Dates":"1964-1994",
+        "Extent":"5.7 cubic feet"
+      },
+      {
+        "Node":"Western Agricultural Economics Research Council Records",
+        "Collection Name":"Western Agricultural Economics Research Council Records",
+        "Dates":"1947-1974",
+        "Extent":".05 cubic feet"
+      },
+      {
+        "Node":"History of Oregon State University Oral Histories and Sound Recordings Collection",
+        "Collection Name":"History of Oregon State University Oral Histories and Sound Recordings Collection",
+        "Dates":"1956-2012",
+        "Extent":".9 cubic feet"
+      },
+      {
+        "Node":"College of Home Economics Oral Histories Collection",
+        "Collection Name":"College of Home Economics Oral Histories Collection",
+        "Dates":"1968-1995",
+        "Extent":".2 cubic feet"
+      },
+      {
+        "Node":"College of Home Economics and Education Records",
+        "Collection Name":"College of Home Economics and Education Records",
+        "Dates":"1913-2000",
+        "Extent":"22.6 cubic feet"
+      },
+      {
+        "Node":"College of Home Economics and Education Photographs",
+        "Collection Name":"College of Home Economics and Education Photographs",
+        "Dates":"1920-1998",
+        "Extent":"5.58 cubic feet"
+      },
+      {
+        "Node":"Ava Milam & Jesse C. Clark Photographic Collection",
+        "Collection Name":"Ava Milam & Jesse C. Clark Photographic Collection",
+        "Dates":"1890-1968",
+        "Extent":".2 cubic feet"
+      },
+      {
+        "Node":"Apparels, Interiors, Housing, Merchandising Department Records",
+        "Collection Name":"Apparels, Interiors, Housing, Merchandising Department Records",
+        "Dates":"1918-2005",
+        "Extent":"11.85 cubic feet"
+      },
+      {
+        "Node":"Nutrition and Food Management Department Records",
+        "Collection Name":"Nutrition and Food Management Department Records",
+        "Dates":"1930-2002",
+        "Extent":"14.96 cubic feet"
+      },
+      {
+        "Node":"Human Development and Family Sciences Department Records",
+        "Collection Name":"Human Development and Family Sciences Department Records",
+        "Dates":"1940-2012",
+        "Extent":"11.87 cubic feet"
+      },
+      {
+        "Node":"School of Education Records",
+        "Collection Name":"School of Education Records",
+        "Dates":"1936-2009",
+        "Extent":"27.1 cubic feet"
+      },
+      {
+        "Node":"Home Economics Extension Photographs",
+        "Collection Name":"Home Economics Extension Photographs",
+        "Dates":"1938-1998",
+        "Extent":".32 cubic feet"
+      },
+      {
+        "Node":"Betty E. Hawthorne Papers",
+        "Collection Name":"Betty E. Hawthorne Papers",
+        "Dates":"1951-1987",
+        "Extent":"1.02 cubic feet"
+      },
+      {
+        "Node":"F. A. Gilfillan Papers",
+        "Collection Name":"F. A. Gilfillan Papers",
+        "Dates":"1894-1984",
+        "Extent":"11 cubic feet"
+      },
+      {
+        "Node":"Atmospheric Sciences Department Records",
+        "Collection Name":"Atmospheric Sciences Department Records",
+        "Dates":"1968-1990",
+        "Extent":".02 cubic feet"
+      },
+      {
+        "Node":"Biochemistry and Biophysics Department Records",
+        "Collection Name":"Biochemistry and Biophysics Department Records",
+        "Dates":"1942-1987",
+        "Extent":"1.3 cubic feet"
+      },
+      {
+        "Node":"Botany and Plant Pathology Department Records",
+        "Collection Name":"Botany and Plant Pathology Department Records",
+        "Dates":"1900-2005",
+        "Extent":".8 cubic feet"
+      },
+      {
+        "Node":"Chemistry Department Records",
+        "Collection Name":"Chemistry Department Records",
+        "Dates":"1937-1997",
+        "Extent":".75 cubic feet"
+      },
+      {
+        "Node":"Entomology Department Records",
+        "Collection Name":"Entomology Department Records",
+        "Dates":"1887-2003",
+        "Extent":"18 cubic feet"
+      },
+      {
+        "Node":"Microbiology Department Records",
+        "Collection Name":"Microbiology Department Records",
+        "Dates":"1893-2002",
+        "Extent":"6.3 cubic feet"
+      },
+      {
+        "Node":"Helen Lepper Diary",
+        "Collection Name":"Helen Lepper Diary",
+        "Dates":"1928-1931",
+        "Extent":".05 cubic feet"
+      },
+      {
+        "Node":"Helen E. Plinkiewisch Papers",
+        "Collection Name":"Helen E. Plinkiewisch Papers",
+        "Dates":"1888-1995",
+        "Extent":"2.75 cubic feet"
+      },
+      {
+        "Node":"Lillian Jeffreys Petri Collection",
+        "Collection Name":"Lillian Jeffreys Petri Collection",
+        "Dates":"1924-1927",
+        "Extent":".27 cubic feet"
+      },
+      {
+        "Node":"Music Department Records",
+        "Collection Name":"Music Department Records",
+        "Dates":"1899-2008",
+        "Extent":"8.2 cubic feet"
+      },
+      {
+        "Node":"Hope Chamberlin Newspaper Columns",
+        "Collection Name":"Hope Chamberlin Newspaper Columns",
+        "Dates":"1936-1937",
+        "Extent":".2 cubic feet"
+      },
+      {
+        "Node":"Spike Sisters Scrapbooks",
+        "Collection Name":"Spike Sisters Scrapbooks",
+        "Dates":"1919-1936",
+        "Extent":"1 cubic feet"
+      },
+      {
+        "Node":"Effie L. Wagner Scrapbook of the Women's Debate Tour",
+        "Collection Name":"Effie L. Wagner Scrapbook of the Women's Debate Tour",
+        "Dates":"1928",
+        "Extent":".07 cubic feet"
+      },
+      {
+        "Node":"Edmund R. Lyman Diary",
+        "Collection Name":"Edmund R. Lyman Diary",
+        "Dates":"1889-1891",
+        "Extent":"1 microfilm reel"
+      },
+      {
+        "Node":"Milton O. Stemmler Student Diary",
+        "Collection Name":"Milton O. Stemmler Student Diary",
+        "Dates":"1891-1896",
+        "Extent":".01 cubic feet"
+      },
+      {
+        "Node":"Bernice Forest Diary",
+        "Collection Name":"Bernice Forest Diary",
+        "Dates":"1916-1917",
+        "Extent":".1 cubic foot"
+      },
+      {
+        "Node":"Edwin Russell Jackman Papers",
+        "Collection Name":"Edwin Russell Jackman Papers",
+        "Dates":"1917-1970",
+        "Extent":"11.7 cubic feet"
+      },
+      {
+        "Node":"Extension Service Records",
+        "Collection Name":"Extension Service Records",
+        "Dates":"1903-2011",
+        "Extent":"136 cubic feet"
+      },
+      {
+        "Node":"Edwin Russell Jackman Photographic Collection",
+        "Collection Name":"Edwin Russell Jackman Photographic Collection",
+        "Dates":"1875-1964",
+        "Extent":"2 cubic feet"
+      },
+      {
+        "Node":"Sarah Jackman Wilson Papers",
+        "Collection Name":"Sarah Jackman Wilson Papers",
+        "Dates":"1961-1977",
+        "Extent":".25 cubic feet"
+      },
+      {
+        "Node":"KOAC Records",
+        "Collection Name":"KOAC Records",
+        "Dates":"1923-2000",
+        "Extent":"3.5 cubic feet"
+      },
+      {
+        "Node":" Agricultural Experiment Station Communications Photograph Collection",
+        "Collection Name":" Agricultural Experiment Station Communications Photograph Collection",
+        "Dates":"1900-1988",
+        "Extent":"1.7 cubic feet"
+      },
+      {
+        "Node":"Extension Service Photograph Collection",
+        "Collection Name":"Extension Service Photograph Collection",
+        "Dates":"1900-2007",
+        "Extent":"2.4 cubic feet"
+      },
+      {
+        "Node":"",
+        "Collection Name":"",
+        "Dates":"",
+        "Extent":""
+      }
+  ]
+}
