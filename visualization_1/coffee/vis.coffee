@@ -46,6 +46,7 @@ RadialPlacement = () ->
   setKeys = (keys) ->
     # start with an empty values
     values = d3.map()
+
   
     # number of keys to go in first circle
     firstCircleCount = 360 / increment
@@ -325,13 +326,13 @@ Network = () ->
     if sort == "links"
       counts = {}
       links.forEach (l) ->
-        counts[l.source.artist] ?= 0
-        counts[l.source.artist] += 1
-        counts[l.target.artist] ?= 0
-        counts[l.target.artist] += 1
+        counts[l.source.id] ?= 0
+        counts[l.source.id] += 1
+        counts[l.target.id] ?= 0
+        counts[l.target.id] += 1
       # add any missing artists that dont have any links
       nodes.forEach (n) ->
-        counts[n.artist] ?= 0
+        counts[n.id] ?= 0
 
       # sort based on counts
       artists = d3.entries(counts).sort (a,b) ->
@@ -340,7 +341,7 @@ Network = () ->
       artists = artists.map (v) -> v.key
     else
       # sort artists by song count
-      counts = nodeCounts(nodes, "artist")
+      counts = nodeCounts(nodes, "id")
       artists = d3.entries(counts).sort (a,b) ->
         b.value - a.value
       artists = artists.map (v) -> v.key
@@ -443,7 +444,7 @@ Network = () ->
   moveToRadialLayout = (alpha) ->
     k = alpha * 0.1
     (d) ->
-      centerNode = groupCenters(d.artist)
+      centerNode = groupCenters(d.id)
       d.x += (centerNode.x - d.x) * k
       d.y += (centerNode.y - d.y) * k
 
