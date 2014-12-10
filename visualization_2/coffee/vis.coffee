@@ -225,7 +225,7 @@ Network = () ->
     searchRegEx = new RegExp(searchTerm.toLowerCase())
     node.each (d) ->
       element = d3.select(this)
-      match = d["Collection Name"].toLowerCase().search(searchRegEx)
+      match = d["id"].toLowerCase().search(searchRegEx)
       if searchTerm.length > 0 and match >= 0
         element.style("fill", "#F38630")
           .style("stroke-width", 2.0)
@@ -245,6 +245,7 @@ Network = () ->
   linkradius = (node, data) ->
     re = /(\d*.?\d*) cubic feet/
     matches = node["Size"]?.match(re)
+    matches = node["Extent"]?.match(re) unless matches?
     extent = matches?[1]
     return extent if extent?
     1
