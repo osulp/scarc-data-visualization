@@ -390,8 +390,6 @@ Network = () ->
     node.on("mouseover", showDetails)
       .on("mouseout", hideDetails)
     node.on("click", (d, i) ->
-      console.log("PLEASE WORK")
-      console.log(window.disable_tracking?)
       if window.disable_tracking?
         window.disable_tracking = null
         hideDetails(d,i)
@@ -518,8 +516,12 @@ Network = () ->
     node.style("stroke", (n) -> if !n.searched then strokeFor(n) else "#555")
       .style("stroke-width", (n) -> if !n.searched then 1.0 else 2.0)
     if link
-      link.attr("stroke", "#ddd")
-        .attr("stroke-opacity", 0.8)
+      link.attr("stroke", (l) ->
+        if l.source.searched or l.target.searched then "#555" else "#ddd"
+      )
+        .attr("stroke-opacity", (l) ->
+          if l.source.searched or l.target.searched then "1.0" else "0.8"
+        )
 
   # Final act of Network() function is to return the inner 'network()' function.
   return network
