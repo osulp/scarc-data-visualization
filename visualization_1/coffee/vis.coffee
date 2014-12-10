@@ -225,7 +225,7 @@ Network = () ->
     searchRegEx = new RegExp(searchTerm.toLowerCase())
     node.each (d) ->
       element = d3.select(this)
-      match = d.name.toLowerCase().search(searchRegEx)
+      match = d["Collection Name"].toLowerCase().search(searchRegEx)
       if searchTerm.length > 0 and match >= 0
         element.style("fill", "#F38630")
           .style("stroke-width", 2.0)
@@ -341,10 +341,9 @@ Network = () ->
       artists = artists.map (v) -> v.key
     else
       # sort artists by song count
-      counts = nodeCounts(nodes, "id")
-      artists = d3.entries(counts).sort (a,b) ->
-        b.value - a.value
-      artists = artists.map (v) -> v.key
+      artists = d3.entries(nodes).sort (a,b) ->
+        b.value.id.localeCompare(a.value.id)
+      artists = artists.map (v) -> v.value.id
 
     artists
 
