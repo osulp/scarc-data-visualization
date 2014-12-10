@@ -223,7 +223,6 @@ Network = () ->
   # from search
   network.updateSearch = (searchTerm) ->
     searchRegEx = new RegExp(searchTerm.toLowerCase())
-    affected_count = 0
     node.each (d) ->
       element = d3.select(this)
       match = d["id"].toLowerCase().search(searchRegEx)
@@ -231,17 +230,23 @@ Network = () ->
         element.style("fill", "#F38630")
           .style("stroke-width", 2.0)
           .style("stroke", "#555")
+          .style("stroke-opacity", 1.0)
         d.searched = true
       else
         d.searched = false
-        affected_count++
         element.style("fill", (d) -> nodeColors(d["Type"]))
-          .style("stroke-width", 1.0).style("fill-opacity",0.3)
-    if affected_count == node[0].length
+          .style("stroke-width", 1.0).style("fill-opacity",0.3).style("stroke-opacity",0.1)
+    if searchTerm.length == 0
       node.each (d) ->
         element = d3.select(this)
         element.style("fill-opacity",1.0)
-
+          .style("stroke-opacity", 1.0)
+    link.attr("stroke", (l) ->
+      if l.source.searched or l.target.searched then "#555" else "#ddd"
+    )
+      .attr("stroke-opacity", (l) ->
+        if l.source.searched or l.target.searched then "1.0" else "0.5"
+      )
   network.updateData = (newData) ->
     allData = setupData(newData)
     link.remove()
@@ -484,10 +489,10 @@ Network = () ->
     # higlight connected links
     if link
       link.attr("stroke", (l) ->
-        if l.source == d or l.target == d then "#555" else "#ddd"
+        if l.source == d or l.target == d or l.source.searched or l.target.searched then "#555" else "#ddd"
       )
         .attr("stroke-opacity", (l) ->
-          if l.source == d or l.target == d then 1.0 else 0.5
+          if l.source == d or l.target == d or l.source.searched or l.target.searched then 1.0 else 0.5
         )
 
       # link.each (l) ->
