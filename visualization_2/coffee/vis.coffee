@@ -132,7 +132,7 @@ Network = () ->
   # our force directed layout
   force = d3.layout.force()
   # color function used to color nodes
-  nodeColors = d3.scale.category20()
+  nodeColors = d3.scale.category10()
   # tooltip used to display details
   tooltip = Tooltip("vis-tooltip", 230)
 
@@ -223,6 +223,7 @@ Network = () ->
   # from search
   network.updateSearch = (searchTerm) ->
     searchRegEx = new RegExp(searchTerm.toLowerCase())
+    affected_count = 0
     node.each (d) ->
       element = d3.select(this)
       match = d["id"].toLowerCase().search(searchRegEx)
@@ -233,8 +234,13 @@ Network = () ->
         d.searched = true
       else
         d.searched = false
+        affected_count++
         element.style("fill", (d) -> nodeColors(d["Type"]))
-          .style("stroke-width", 1.0)
+          .style("stroke-width", 1.0).style("fill-opacity",0.3)
+    if affected_count == node[0].length
+      node.each (d) ->
+        element = d3.select(this)
+        element.style("fill-opacity",1.0)
 
   network.updateData = (newData) ->
     allData = setupData(newData)
@@ -265,6 +271,7 @@ Network = () ->
       n.y = randomnumber=Math.floor(Math.random()*height)
       # add radius to the node so we can use it later
       n.radius = circleRadius(linkradius(n, data))
+      n["Type"] = n["Category"] if n["Category"]?
 
     # id's -> node objects
     nodesMap  = mapNodes(data.nodes)
@@ -468,7 +475,9 @@ Network = () ->
     content = '<p class="main">' + d["id"] + '</span></p>'
     content += '<hr class="tooltip-hr">'
     content += '<p class="main">' + d["Dates"] + '</span></p>' if d["Dates"]?
-    content += '<p class="main">' + d["Size"] + '</span></p>' if d["Dates"]?
+    content += '<p class="main">' + d["Size"] + '</span></p>' if d["Size"]?
+    content += '<p class="main">' + d["Extent"] + '</span></p>' if d["Extent"]?
+    content += '<p class="main">Category: ' + d["Category"] + '</span></p>' if d["Category"]?
     tooltip.showTooltip(content,d3.event)
 
     return if window.disable_tracking?
