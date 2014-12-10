@@ -376,6 +376,15 @@ Network = () ->
 
     node.on("mouseover", showDetails)
       .on("mouseout", hideDetails)
+    node.on("click", (d, i) ->
+      console.log("PLEASE WORK")
+      console.log(window.disable_tracking?)
+      if window.disable_tracking?
+        window.disable_tracking = null
+        hideDetails(d,i)
+      else
+        window.disable_tracking = true
+    )
 
     node.exit().remove()
 
@@ -461,6 +470,7 @@ Network = () ->
     content += '<p class="main">' + d["Extent"] + '</span></p>'
     tooltip.showTooltip(content,d3.event)
 
+    return if window.disable_tracking?
     # higlight connected links
     if link
       link.attr("stroke", (l) ->
@@ -488,6 +498,7 @@ Network = () ->
   # Mouseout function
   hideDetails = (d,i) ->
     tooltip.hideTooltip()
+    return if window.disable_tracking?
     # watch out - don't mess with node if search is currently matching
     node.style("stroke", (n) -> if !n.searched then strokeFor(n) else "#555")
       .style("stroke-width", (n) -> if !n.searched then 1.0 else 2.0)
