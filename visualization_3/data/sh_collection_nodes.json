@@ -1,0 +1,2493 @@
+{
+  "nodes":
+[
+      {
+        "id":"Sighurd Medhus Papers",
+        "Collection Name":"Sighurd Medhus Papers",
+        "Dates":"1947-1949",
+        "Extent":".01 cubic feet"
+      },
+      {
+        "id":"Air Force ROTC Photographs",
+        "Collection Name":"Air Force ROTC Photographs",
+        "Dates":"1988-2005",
+        "Extent":"1.15 cubic feet"
+      },
+      {
+        "id":"Air Force ROTC Motion Picture Films",
+        "Collection Name":"Air Force ROTC Motion Picture Films",
+        "Dates":"1962",
+        "Extent":".05 cubic feet"
+      },
+      {
+        "id":"Oregon State University Military Photographs Collection",
+        "Collection Name":"Oregon State University Military Photographs Collection",
+        "Dates":"1875-1975",
+        "Extent":"2 cubic feet"
+      },
+      {
+        "id":"Oregon State College History of World War II Project Records",
+        "Collection Name":"Oregon State College History of World War II Project Records",
+        "Dates":"1940-1947",
+        "Extent":".04 cubic feet"
+      },
+      {
+        "id":"Oregon State Yank Collection",
+        "Collection Name":"Oregon State Yank Collection",
+        "Dates":"1942-1945",
+        "Extent":"1.35 cubic feet"
+      },
+      {
+        "id":"Wesley Ross Memoir of World War II",
+        "Collection Name":"Wesley Ross Memoir of World War II",
+        "Dates":"2009",
+        "Extent":".01 cubic feet"
+      },
+      {
+        "id":"Oregon State University Sesquicentennial Oral History Collection",
+        "Collection Name":"Oregon State University Sesquicentennial Oral History Collection",
+        "Dates":"2013-2014",
+        "Extent":""
+      },
+      {
+        "id":"Maple Manor Cooperative House Records",
+        "Collection Name":"Maple Manor Cooperative House Records",
+        "Dates":"1940-1995",
+        "Extent":"1.5 cubic feet"
+      },
+      {
+        "id":"Alpha Lambda Delta Records",
+        "Collection Name":"Alpha Lambda Delta Records",
+        "Dates":"1933-1952",
+        "Extent":".3 cubic feet"
+      },
+      {
+        "id":"Delta Zeta Sorority Chi Chapter Scrapbook",
+        "Collection Name":"Delta Zeta Sorority Chi Chapter Scrapbook",
+        "Dates":"1944",
+        "Extent":".15 cubic feet"
+      },
+      {
+        "id":"Army Specialized Training Program Records",
+        "Collection Name":"Army Specialized Training Program Records",
+        "Dates":"1943-1946",
+        "Extent":"2 microfilm reels"
+      },
+      {
+        "id":"College of Science Records",
+        "Collection Name":"College of Science Records",
+        "Dates":"1932-1973",
+        "Extent":".6 cubic feet"
+      },
+      {
+        "id":"College of Engineering Records",
+        "Collection Name":"College of Engineering Records",
+        "Dates":"1930-2002",
+        "Extent":"23 cubic feet"
+      },
+      {
+        "id":"Harriet's Collection",
+        "Collection Name":"Harriet's Collection",
+        "Dates":"1868-1996",
+        "Extent":"25 cubic feet"
+      },
+      {
+        "id":"Clair V. Langton Papers",
+        "Collection Name":"Clair V. Langton Papers",
+        "Dates":"1914-1973",
+        "Extent":"11 cubic feet"
+      },
+      {
+        "id":"Reserve Officer Training Corps Records",
+        "Collection Name":"Reserve Officer Training Corps Records",
+        "Dates":"1890-2009",
+        "Extent":"9 cubic feet"
+      },
+      {
+        "id":"Students' Army Training Corps Records",
+        "Collection Name":"Students' Army Training Corps Records",
+        "Dates":"1918-1919",
+        "Extent":"10 cubic feet"
+      },
+      {
+        "id":"Elvin A. Duerst Papers",
+        "Collection Name":"Elvin A. Duerst Papers",
+        "Dates":"1929-1993",
+        "Extent":"80 cubic feet"
+      },
+      {
+        "id":"Ava Milam Clark Papers",
+        "Collection Name":"Ava Milam Clark Papers",
+        "Dates":"1888-1972",
+        "Extent":"6.6 cubic feet"
+      },
+      {
+        "id":"Wallace L. Kadderly Papers",
+        "Collection Name":"Wallace L. Kadderly Papers",
+        "Dates":"1931-1963",
+        "Extent":"5 cubic feet"
+      },
+      {
+        "id":"Agricultural and Resource Economics Department Records",
+        "Collection Name":"Agricultural and Resource Economics Department Records",
+        "Dates":"1909-2008",
+        "Extent":"32.5 cubic feet"
+      },
+      {
+        "id":"Emery N. Castle Papers",
+        "Collection Name":"Emery N. Castle Papers",
+        "Dates":"1948-2003",
+        "Extent":"10.8 cubic feet"
+      },
+      {
+        "id":"D. Curtis Mumford Papers",
+        "Collection Name":"D. Curtis Mumford Papers",
+        "Dates":"1903-1990",
+        "Extent":"75 cubic feet"
+      },
+      {
+        "id":"Fred W. Obermiller Papers",
+        "Collection Name":"Fred W. Obermiller Papers",
+        "Dates":"1964-1994",
+        "Extent":"5.7 cubic feet"
+      },
+      {
+        "id":"Western Agricultural Economics Research Council Records",
+        "Collection Name":"Western Agricultural Economics Research Council Records",
+        "Dates":"1947-1974",
+        "Extent":".05 cubic feet"
+      },
+      {
+        "id":"History of Oregon State University Oral Histories and Sound Recordings Collection",
+        "Collection Name":"History of Oregon State University Oral Histories and Sound Recordings Collection",
+        "Dates":"1956-2012",
+        "Extent":".9 cubic feet"
+      },
+      {
+        "id":"College of Home Economics Oral Histories Collection",
+        "Collection Name":"College of Home Economics Oral Histories Collection",
+        "Dates":"1968-1995",
+        "Extent":".2 cubic feet"
+      },
+      {
+        "id":"College of Home Economics and Education Records",
+        "Collection Name":"College of Home Economics and Education Records",
+        "Dates":"1913-2000",
+        "Extent":"22.6 cubic feet"
+      },
+      {
+        "id":"College of Home Economics and Education Photographs",
+        "Collection Name":"College of Home Economics and Education Photographs",
+        "Dates":"1920-1998",
+        "Extent":"5.58 cubic feet"
+      },
+      {
+        "id":"Ava Milam & Jesse C. Clark Photographic Collection",
+        "Collection Name":"Ava Milam & Jesse C. Clark Photographic Collection",
+        "Dates":"1890-1968",
+        "Extent":".2 cubic feet"
+      },
+      {
+        "id":"Apparels, Interiors, Housing, Merchandising Department Records",
+        "Collection Name":"Apparels, Interiors, Housing, Merchandising Department Records",
+        "Dates":"1918-2005",
+        "Extent":"11.85 cubic feet"
+      },
+      {
+        "id":"Nutrition and Food Management Department Records",
+        "Collection Name":"Nutrition and Food Management Department Records",
+        "Dates":"1930-2002",
+        "Extent":"14.96 cubic feet"
+      },
+      {
+        "id":"Human Development and Family Sciences Department Records",
+        "Collection Name":"Human Development and Family Sciences Department Records",
+        "Dates":"1940-2012",
+        "Extent":"11.87 cubic feet"
+      },
+      {
+        "id":"School of Education Records",
+        "Collection Name":"School of Education Records",
+        "Dates":"1936-2009",
+        "Extent":"27.1 cubic feet"
+      },
+      {
+        "id":"Home Economics Extension Photographs",
+        "Collection Name":"Home Economics Extension Photographs",
+        "Dates":"1938-1998",
+        "Extent":".32 cubic feet"
+      },
+      {
+        "id":"Betty E. Hawthorne Papers",
+        "Collection Name":"Betty E. Hawthorne Papers",
+        "Dates":"1951-1987",
+        "Extent":"1.02 cubic feet"
+      },
+      {
+        "id":"F. A. Gilfillan Papers",
+        "Collection Name":"F. A. Gilfillan Papers",
+        "Dates":"1894-1984",
+        "Extent":"11 cubic feet"
+      },
+      {
+        "id":"Atmospheric Sciences Department Records",
+        "Collection Name":"Atmospheric Sciences Department Records",
+        "Dates":"1968-1990",
+        "Extent":".02 cubic feet"
+      },
+      {
+        "id":"Biochemistry and Biophysics Department Records",
+        "Collection Name":"Biochemistry and Biophysics Department Records",
+        "Dates":"1942-1987",
+        "Extent":"1.3 cubic feet"
+      },
+      {
+        "id":"Botany and Plant Pathology Department Records",
+        "Collection Name":"Botany and Plant Pathology Department Records",
+        "Dates":"1900-2005",
+        "Extent":".8 cubic feet"
+      },
+      {
+        "id":"Chemistry Department Records",
+        "Collection Name":"Chemistry Department Records",
+        "Dates":"1937-1997",
+        "Extent":".75 cubic feet"
+      },
+      {
+        "id":"Entomology Department Records",
+        "Collection Name":"Entomology Department Records",
+        "Dates":"1887-2003",
+        "Extent":"18 cubic feet"
+      },
+      {
+        "id":"Microbiology Department Records",
+        "Collection Name":"Microbiology Department Records",
+        "Dates":"1893-2002",
+        "Extent":"6.3 cubic feet"
+      },
+      {
+        "id":"Helen Lepper Diary",
+        "Collection Name":"Helen Lepper Diary",
+        "Dates":"1928-1931",
+        "Extent":".05 cubic feet"
+      },
+      {
+        "id":"Helen E. Plinkiewisch Papers",
+        "Collection Name":"Helen E. Plinkiewisch Papers",
+        "Dates":"1888-1995",
+        "Extent":"2.75 cubic feet"
+      },
+      {
+        "id":"Lillian Jeffreys Petri Collection",
+        "Collection Name":"Lillian Jeffreys Petri Collection",
+        "Dates":"1924-1927",
+        "Extent":".27 cubic feet"
+      },
+      {
+        "id":"Music Department Records",
+        "Collection Name":"Music Department Records",
+        "Dates":"1899-2008",
+        "Extent":"8.2 cubic feet"
+      },
+      {
+        "id":"Hope Chamberlin Newspaper Columns",
+        "Collection Name":"Hope Chamberlin Newspaper Columns",
+        "Dates":"1936-1937",
+        "Extent":".2 cubic feet"
+      },
+      {
+        "id":"Spike Sisters Scrapbooks",
+        "Collection Name":"Spike Sisters Scrapbooks",
+        "Dates":"1919-1936",
+        "Extent":"1 cubic feet"
+      },
+      {
+        "id":"Effie L. Wagner Scrapbook of the Women's Debate Tour",
+        "Collection Name":"Effie L. Wagner Scrapbook of the Women's Debate Tour",
+        "Dates":"1928",
+        "Extent":".07 cubic feet"
+      },
+      {
+        "id":"Edmund R. Lyman Diary",
+        "Collection Name":"Edmund R. Lyman Diary",
+        "Dates":"1889-1891",
+        "Extent":"1 microfilm reel"
+      },
+      {
+        "id":"Milton O. Stemmler Student Diary",
+        "Collection Name":"Milton O. Stemmler Student Diary",
+        "Dates":"1891-1896",
+        "Extent":".01 cubic feet"
+      },
+      {
+        "id":"Bernice Forest Diary",
+        "Collection Name":"Bernice Forest Diary",
+        "Dates":"1916-1917",
+        "Extent":".1 cubic foot"
+      },
+      {
+        "id":"Edwin Russell Jackman Papers",
+        "Collection Name":"Edwin Russell Jackman Papers",
+        "Dates":"1917-1970",
+        "Extent":"11.7 cubic feet"
+      },
+      {
+        "id":"Extension Service Records",
+        "Collection Name":"Extension Service Records",
+        "Dates":"1903-2011",
+        "Extent":"136 cubic feet"
+      },
+      {
+        "id":"Edwin Russell Jackman Photographic Collection",
+        "Collection Name":"Edwin Russell Jackman Photographic Collection",
+        "Dates":"1875-1964",
+        "Extent":"2 cubic feet"
+      },
+      {
+        "id":"Sarah Jackman Wilson Papers",
+        "Collection Name":"Sarah Jackman Wilson Papers",
+        "Dates":"1961-1977",
+        "Extent":".25 cubic feet"
+      },
+      {
+        "id":"KOAC Records",
+        "Collection Name":"KOAC Records",
+        "Dates":"1923-2000",
+        "Extent":"3.5 cubic feet"
+      },
+      {
+        "id":"Agricultural Experiment Station Communications Photograph Collection",
+        "Collection Name":"Agricultural Experiment Station Communications Photograph Collection",
+        "Dates":"1900-1988",
+        "Extent":"1.7 cubic feet"
+      },
+      {
+        "id":"Extension Service Photograph Collection",
+        "Collection Name":"Extension Service Photograph Collection",
+        "Dates":"1900-2007",
+        "Extent":"2.4 cubic feet"
+      },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Accreditation (Education)"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Agricultural development projects"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Agricultural extension work"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Agricultural extension workers"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Agriculture"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Air Force"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Air Force ROTC"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Air Force, 4th"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Alumni and alumnae"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"American Baptist Assembly (Green Lake, Wis.)"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"American Home Economics Association."
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Army Specialized Training Program (U.S.)"
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"Australia"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Beef cattle"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Blees Military Academy."
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Camp Callan (Calif.)"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Cheerleading"
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"China"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Civilian relief"
+  },
+  {
+    "Type":"1",
+    "Category":"personal name",
+    "id":"Clark, Ava Milam, 1884-1976."
+  },
+  {
+    "Type":"1",
+    "Category":"personal name",
+    "id":"Clark, J. C. (Jesse Claude), 1881-1956."
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Clubs"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"College environment"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"College of Home Economics"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"College of Home Economics and Education"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"College of Science"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"College students"
+  },
+  {
+    "Type":"1",
+    "Category":"personal name",
+    "id":"Conkling, Charles."
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"Corvallis"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Delta Upsilon"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Deserts"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Economic aspects"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Education (Higher)"
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"Europe"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Faculty"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Federal Cooperative Extension Service"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Food and Agriculture Organization of the United Nations."
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Grasses"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Grazing"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Greek letter societies"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Hamilton Air Force Base (Calif.)"
+  },
+  {
+    "Type":"1",
+    "Category":"personal name",
+    "id":"Hawthorne, Betty Eileen."
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Home economics"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Home economics extension work"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Home economics students"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Home economists"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Housing, Cooperative"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Institute of Inter-American Affairs (U.S.)"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Instruction and study"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"International cooperation"
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"Iraq"
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"Japan"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Junior Engineers' and Scientists' Summer Institute (Oregon State University)"
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"Korea"
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"Latin America"
+  },
+  {
+    "Type":"1",
+    "Category":"personal name",
+    "id":"Lemon, E. B. (Erwin Bertran), 1889-1979"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Military education"
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"Montana"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Montana Extension Service in Agriculture and Home Economics"
+  },
+  {
+    "Type":"1",
+    "Category":"personal name",
+    "id":"Munford, James Kenneth."
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Music"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"National Association of State Universities and Land Grant Colleges."
+  },
+  {
+    "Type":"1",
+    "Category":"personal name",
+    "id":"Oliver, Herman."
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"Oregon"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Oregon Agricultural College"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Oregon Home Economics Association."
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Oregon State Agricultural College"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Oregon State Chapter, Corvallis"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Oregon State College"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Oregon State University"
+  },
+  {
+    "Type":"1",
+    "Category":"personal name",
+    "id":"Packard, Earl L.(Earl Leroy)"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Personal narratives, American"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Radio programs"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Ranch life"
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"Saudi Arabia"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"School of Home Economics"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"School of Science"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Schools"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Science"
+  },
+  {
+    "Type":"1",
+    "Category":"personal name",
+    "id":"Simpson, Charles D."
+  },
+  {
+    "Type":"1",
+    "Category":"personal name",
+    "id":"Snell, Margaret Comstock, 1843-1923."
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Soil erosion"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Stanford Research Institute."
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"Steens Mountain Region (Or.)"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Student activities"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Student housing"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Students"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Study and teaching"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Study and teaching (Higher)"
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"Syria"
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"Taiwan"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"United Nations Relief and Rehabilitation Administration."
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"United States"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"United States. International Cooperation Administration."
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"War work"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Wheat"
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Women"
+  },
+  {
+    "Type":"1",
+    "Category":"event",
+    "id":"World War, 1914-1918"
+  },
+  {
+    "Type":"1",
+    "Category":"event",
+    "id":"World War, 1939-1945"
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Yanjing da xue."
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Young Men's Christian Associations of China."
+  },
+  {
+    "Type":"1",
+    "Category":"corporate name",
+    "id":"Young Men's Christian Associations of the City of New York."
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"Baghdad (Iraq)"
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"Beirut (Lebanon)"
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"Damascus (Syria)"
+  },
+  {
+    "Type":"1",
+    "Category":"geographic name",
+    "id":"Jerusalem."
+  },
+  {
+    "Type":"1",
+    "Category":"topic",
+    "id":"Architecture"
+  }
+],
+  "links": [
+  {
+    "source":"Air Force",
+    "target":"Sighurd Medhus Papers"
+  },
+  {
+    "source":"Air Force ROTC",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Air Force, 4th",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Cheerleading",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"College students",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Corvallis",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Corvallis",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Corvallis",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Corvallis",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Corvallis",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Delta Upsilon",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Greek letter societies",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Hamilton Air Force Base (Calif.)",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Military education",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Oregon State Chapter, Corvallis",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Student activities",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Students",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"United States",
+    "target":"Sighurd Medhus Papers"
+    
+    
+  },
+  {
+    "source":"Alumni and alumnae",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Camp Callan (Calif.)",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Clubs",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"College students",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Corvallis",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Corvallis",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Corvallis",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Corvallis",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Corvallis",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Housing, Cooperative",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Oregon State College",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Oregon State College",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Oregon State College",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Personal narratives, American",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Student activities",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Student housing",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Students",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"World War, 1939-1945",
+    "target":"Maple Manor Cooperative House Records"
+    
+    
+  },
+  {
+    "source":"Corvallis",
+    "target":"Army Specialized Training Program Records"
+    
+    
+  },
+  {
+    "source":"Faculty",
+    "target":"Army Specialized Training Program Records"
+    
+    
+  },
+  {
+    "source":"Lemon, E. B. (Erwin Bertran), 1889-1979",
+    "target":"Army Specialized Training Program Records"
+    
+    
+  },
+  {
+    "source":"Military education",
+    "target":"Army Specialized Training Program Records"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Army Specialized Training Program Records"
+    
+    
+  },
+  {
+    "source":"Oregon State College",
+    "target":"Army Specialized Training Program Records"
+    
+    
+  },
+  {
+    "source":"Schools",
+    "target":"Army Specialized Training Program Records"
+    
+    
+  },
+  {
+    "source":"War work",
+    "target":"Army Specialized Training Program Records"
+    
+    
+  },
+  {
+    "source":"World War, 1939-1945",
+    "target":"Army Specialized Training Program Records"
+    
+    
+  },
+  {
+    "source":"Army Specialized Training Program (U.S.)",
+    "target":"College of Science Records"
+    
+    
+  },
+  {
+    "source":"College of Science",
+    "target":"College of Science Records"
+    
+    
+  },
+  {
+    "source":"Junior Engineers' and Scientists' Summer Institute (Oregon State University)",
+    "target":"College of Science Records"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"College of Science Records"
+    
+    
+  },
+  {
+    "source":"Oregon State College",
+    "target":"College of Science Records"
+    
+    
+  },
+  {
+    "source":"Oregon State University",
+    "target":"College of Science Records"
+    
+    
+  },
+  {
+    "source":"Packard, Earl L.(Earl Leroy)",
+    "target":"College of Science Records"
+    
+    
+  },
+  {
+    "source":"School of Science",
+    "target":"College of Science Records"
+    
+    
+  },
+  {
+    "source":"Schools",
+    "target":"College of Science Records"
+    
+    
+  },
+  {
+    "source":"Science",
+    "target":"College of Science Records"
+    
+    
+  },
+  {
+    "source":"Study and teaching (Higher)",
+    "target":"College of Science Records"
+    
+    
+  },
+  {
+    "source":"War work",
+    "target":"College of Science Records"
+    
+    
+  },
+  {
+    "source":"World War, 1939-1945",
+    "target":"College of Science Records"
+    
+    
+  },
+  {
+    "source":"Agricultural development projects",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"Agricultural development projects",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"Agricultural development projects",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"Agricultural extension work",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"Agriculture",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"China",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"China",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"Civilian relief",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"Economic aspects",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"Institute of Inter-American Affairs (U.S.)",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"Latin America",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"Montana",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"Montana Extension Service in Agriculture and Home Economics",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"Saudi Arabia",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"Stanford Research Institute.",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"United Nations Relief and Rehabilitation Administration.",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"United States. International Cooperation Administration.",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"World War, 1939-1945",
+    "target":"Elvin A. Duerst Papers"
+    
+    
+  },
+  {
+    "source":"American Baptist Assembly (Green Lake, Wis.)",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Architecture",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Baghdad (Iraq)",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Beirut (Lebanon)",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Blees Military Academy.",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"China",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"China",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Clark, Ava Milam, 1884-1976.",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Clark, J. C. (Jesse Claude), 1881-1956.",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"College of Home Economics",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Damascus (Syria)",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Food and Agriculture Organization of the United Nations.",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Home economics",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Home economics",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Home economics",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Home economics",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Home economics",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Home economics",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Home economics",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Home economics",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Home economics",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Home economists",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Iraq",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Japan",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Jerusalem.",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Korea",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Munford, James Kenneth.",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Oregon State College",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Snell, Margaret Comstock, 1843-1923.",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Study and teaching",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Study and teaching",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Syria",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Yanjing da xue.",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Young Men's Christian Associations of China.",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Young Men's Christian Associations of the City of New York.",
+    "target":"Ava Milam Clark Papers"
+    
+    
+  },
+  {
+    "source":"Agricultural extension work",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Agricultural extension work",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Agricultural extension work",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Agricultural extension work",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Agricultural extension work",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Agriculture",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Agriculture",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Agriculture",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Australia",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Economic aspects",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Europe",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Europe",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Europe",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Japan",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Japan",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Latin America",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Radio programs",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Taiwan",
+    "target":"Wallace L. Kadderly Papers"
+    
+    
+  },
+  {
+    "source":"Accreditation (Education)",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"American Home Economics Association.",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Clark, Ava Milam, 1884-1976.",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"College of Home Economics",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"College of Home Economics and Education",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Hawthorne, Betty Eileen.",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Home economics",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Home economics",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Home economics",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Home economics extension work",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Home economics students",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Home economists",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"International cooperation",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"National Association of State Universities and Land Grant Colleges.",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Oregon Agricultural College",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Oregon Home Economics Association.",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Oregon State College",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Oregon State University",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Oregon State University",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Oregon State University",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"School of Home Economics",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"School of Home Economics",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"School of Home Economics",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Study and teaching",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"Study and teaching (Higher)",
+    "target":"College of Home Economics and Education Records"
+    
+    
+  },
+  {
+    "source":"College environment",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"College students",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Corvallis",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Corvallis",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Corvallis",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Corvallis",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Corvallis",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Education (Higher)",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Instruction and study",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Music",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Oregon State Agricultural College",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Oregon State College",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Student activities",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Students",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Students",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Women",
+    "target":"Helen Lepper Diary"
+    
+    
+  },
+  {
+    "source":"Agricultural extension workers",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Agriculture",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Beef cattle",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Conkling, Charles.",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Deserts",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Federal Cooperative Extension Service",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Grasses",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Grazing",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Oliver, Herman.",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Oregon",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Oregon State College",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Personal narratives, American",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Radio programs",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Ranch life",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Simpson, Charles D.",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Soil erosion",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Steens Mountain Region (Or.)",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"Wheat",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+  {
+    "source":"World War, 1914-1918",
+    "target":"Edwin Russell Jackman Papers"
+    
+    
+  },
+    {
+      "source":"Sighurd Medhus Papers",
+      "target":"Air Force ROTC Photographs"
+    },
+    {
+      "source":"Sighurd Medhus Papers",
+      "target":"Air Force ROTC Motion Picture Films"
+    },
+    {
+      "source":"Sighurd Medhus Papers",
+      "target":"Reserve Officer Training Corps Records"
+    },
+    {
+      "source":"Sighurd Medhus Papers",
+      "target":"Oregon State University Military Photographs Collection"
+
+    },
+    {
+      "source":"Maple Manor Cooperative House Records",
+      "target":"Oregon State College History of World War II Project Records"
+
+    },
+    {
+      "source":"Maple Manor Cooperative House Records",
+      "target":"Oregon State Yank Collection"
+
+    },
+    {
+      "source":"Maple Manor Cooperative House Records",
+      "target":"Wesley Ross Memoir of World War II"
+
+    },
+    {
+      "source":"Maple Manor Cooperative House Records",
+      "target":"Oregon State University Sesquicentennial Oral History Collection"
+
+    },
+    {
+      "source":"Maple Manor Cooperative House Records",
+      "target":"Alpha Lambda Delta Records"
+
+    },
+    {
+      "source":"Maple Manor Cooperative House Records",
+      "target":"Delta Zeta Sorority Chi Chapter Scrapbook"
+
+    },
+    {
+      "source":"Army Specialized Training Program Records",
+      "target":"College of Science Records"
+
+    },
+    {
+      "source":"Army Specialized Training Program Records",
+      "target":"College of Engineering Records"
+
+    },
+    {
+      "source":"Army Specialized Training Program Records",
+      "target":"Harriet's Collection"
+
+    },
+    {
+      "source":"Army Specialized Training Program Records",
+      "target":"Clair V. Langton Papers"
+
+    },
+    {
+      "source":"Army Specialized Training Program Records",
+      "target":"Reserve Officer Training Corps Records"
+
+    },
+    {
+      "source":"Army Specialized Training Program Records",
+      "target":"Air Force ROTC Motion Picture Films"
+
+    },
+    {
+      "source":"Army Specialized Training Program Records",
+      "target":"Students' Army Training Corps Records"
+
+    },
+    {
+      "source":"Elvin A. Duerst Papers",
+      "target":"Ava Milam Clark Papers"
+
+    },
+    {
+      "source":"Elvin A. Duerst Papers",
+      "target":"Wallace L. Kadderly Papers"
+
+    },
+    {
+      "source":"Elvin A. Duerst Papers",
+      "target":"Agricultural and Resource Economics Department Records"
+
+    },
+    {
+      "source":"Elvin A. Duerst Papers",
+      "target":"Emery N. Castle Papers"
+
+    },
+    {
+      "source":"Elvin A. Duerst Papers",
+      "target":"D. Curtis Mumford Papers"
+
+    },
+    {
+      "source":"Elvin A. Duerst Papers",
+      "target":"Fred W. Obermiller Papers"
+
+    },
+    {
+      "source":"Ava Milam Clark Papers",
+      "target":"History of Oregon State University Oral Histories and Sound Recordings Collection"
+
+    },
+    {
+      "source":"Ava Milam Clark Papers",
+      "target":"College of Home Economics Oral Histories Collection"
+
+    },
+    {
+      "source":"Ava Milam Clark Papers",
+      "target":"College of Home Economics and Education Records"
+
+    },
+    {
+      "source":"Ava Milam Clark Papers",
+      "target":"College of Home Economics and Education Photographs"
+
+    },
+    {
+      "source":"Ava Milam Clark Papers",
+      "target":"Ava Milam & Jesse C. Clark Photographic Collection"
+
+    },
+    {
+      "source":"College of Home Economics and Education Records",
+      "target":"Apparels, Interiors, Housing, Merchandising Department Records"
+
+    },
+    {
+      "source":"College of Home Economics and Education Records",
+      "target":"Nutrition and Food Management Department Records"
+
+    },
+    {
+      "source":"College of Home Economics and Education Records",
+      "target":"Human Development and Family Sciences Department Records"
+
+    },
+    {
+      "source":"College of Home Economics and Education Records",
+      "target":"School of Education Records"
+
+    },
+    {
+      "source":"College of Science Records",
+      "target":"F. A. Gilfillan Papers"
+
+    },
+    {
+      "source":"College of Science Records",
+      "target":"Atmospheric Sciences Department Records"
+
+    },
+    {
+      "source":"College of Science Records",
+      "target":"Biochemistry and Biophysics Department Records"
+
+    },
+    {
+      "source":"College of Science Records",
+      "target":"Botany and Plant Pathology Department Records"
+
+    },
+    {
+      "source":"College of Science Records",
+      "target":"Chemistry Department Records"
+
+    },
+    {
+      "source":"College of Science Records",
+      "target":"Entomology Department Records"
+
+    },
+    {
+      "source":"College of Science Records",
+      "target":"Microbiology Department Records"
+
+    },
+    {
+      "source":"Helen Lepper Diary",
+      "target":"Helen E. Plinkiewisch Papers"
+
+    },
+    {
+      "source":"Helen Lepper Diary",
+      "target":"Lillian Jeffreys Petri Collection"
+
+    },
+    {
+      "source":"Helen Lepper Diary",
+      "target":"Music Department Records"
+
+    },
+    {
+      "source":"Helen Lepper Diary",
+      "target":"Hope Chamberlin Newspaper Columns"
+
+    },
+    {
+      "source":"Helen Lepper Diary",
+      "target":"Spike Sisters Scrapbooks"
+
+    },
+    {
+      "source":"Helen Lepper Diary",
+      "target":"Effie L. Wagner Scrapbook of the Women's Debate Tour"
+
+
+    },
+    {
+      "source":"Helen Lepper Diary",
+      "target":"Edmund R. Lyman Diary"
+
+    },
+    {
+      "source":"Helen Lepper Diary",
+      "target":"Milton O. Stemmler Student Diary"
+
+    },
+    {
+      "source":"Helen Lepper Diary",
+      "target":"Bernice Forest Diary"
+
+    },
+    {
+      "source":"Edwin Russell Jackman Papers",
+      "target":"Extension Service Records"
+
+    },
+    {
+      "source":"Edwin Russell Jackman Papers",
+      "target":"Edwin Russell Jackman Photographic Collection"
+
+    },
+    {
+      "source":"Edwin Russell Jackman Papers",
+      "target":"Sarah Jackman Wilson Papers"
+
+    },
+    {
+      "source":"Wallace L. Kadderly Papers",
+      "target":"KOAC Records"
+
+    },
+    {
+      "source":"Wallace L. Kadderly Papers",
+      "target":"Agricultural Experiment Station Communications Photograph Collection"
+
+    },
+    {
+      "source":"Wallace L. Kadderly Papers",
+      "target":"Extension Service Photograph Collection"
+
+    },
+    {
+      "source":"Wallace L. Kadderly Papers",
+      "target":"Harriet's Collection"
+
+    }
+    ]
+}

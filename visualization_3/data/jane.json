@@ -1,0 +1,290 @@
+{ "nodes": 
+[
+  {
+    "Node":"Fiction",
+    "Author Name":"Rita Chang",
+    "Fiction Title":"The Vestige"
+  },
+  {
+    "Node":"Fiction",
+    "Author Name":"Irene Keliher",
+    "Fiction Title":"Alaska"   
+  },
+  {
+    "Node":"Fiction",
+    "Author Name":"Lisa Blackwell",
+    "Fiction Title":"Looks Good on Paper"
+  },
+  {
+    "Node":"Fiction",
+    "Author Name":"Wendy Breuer",
+    "Fiction Title":"The Museum of Analog Antiquities"
+   },
+  {
+    "Node":"Poetry",
+    "Author Name":"Bethany Reid",
+    "Poem Title":"The Apple Orchard"
+   },
+  {
+    "Node":"Poetry",
+    "Author Name":"Rochelle Hurt",
+    "Poem Title":"Reading Whitman in the Chemo Room"  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Terry Godbey",
+    "Poem Title":"I Fell in Love with an Octopus"
+  },   
+ {
+    "Node":"Poetry",
+    "Author Name":"Shawna Thompson",
+    "Poem Title":"Chemo Brain"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Ann Howells",
+    "Poem Title":"under the willows"
+   },
+ {
+    "Node":"Poetry",
+    "Author Name":"Elizabeth Burk",
+    "Poem Title":"Winter in Louisiana"
+   },
+ {
+    "Node":"Poetry",
+    "Author Name":"Elizabeth Burk",
+    "Poem Title":"Uncle Hershey 1954"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"M.L. Brown",
+    "Poem Title":"If This Looks Odd"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Kathleen A. Kelly",
+    "Poem Title":"Provenance: A Sestina"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Melisa Cahnmann-Taylor",
+    "Poem Title":"After Reading a Letter from the Addict"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Melisa Cahnmann-Taylor",
+    "Poem Title":"My Brother Who Doesn’t Speak to Our Mother Comes"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Catherine Thompson",
+    "Poem Title":"Bitter Melons"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Linnea Harper",
+    "Poem Title":"The Name He Made You"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Virginia Bell",
+    "Poem Title":"No Words for These Matters"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Eugenia Leigh",
+    "Poem Title":"Impossible Questions"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Lavonne J. Adams",
+    "Poem Title":"Disparity"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Molly Spencer",
+    "Poem Title":"A Wendy House"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Sarah Rossiter",
+    "Poem Title":"Woman in a White Truck, Driving"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Judy Ireland",
+    "Poem Title":"Thoughts on Gay Marriage, While Visiting My Lover’s Parents"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Jennifer Fandel",
+    "Poem Title":"The Death of Chang and Eng, 1811-1874"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Aisha Sharif",
+    "Poem Title":"Layl-tul-Qadr (The Night of Power)"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Melissa Holmes",
+    "Poem Title":"Approaching the Solstice"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Tamiko Beyer",
+    "Poem Title":"after ten years, a net"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Joan Manheimer",
+    "Poem Title":"Red Riding"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Donna Coffey",
+    "Poem Title":"Saint Margaret"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Amanda Mead",
+    "Poem Title":"Man Deemed Not Guilty of Rape Due to Skinny Jeans"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Darlene Pagan",
+    "Poem Title":"Anatomy of a Girl"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Penelope La Montagne",
+    "Poem Title":"Women of a Certain Age"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Shawna Thompson",
+    "Poem Title":"Women of a Certain Age"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Margaret Hasse",
+    "Poem Title":"How Does the Dog Spend Her Day?"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Pamela Davis",
+    "Poem Title":"Guardian"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Pamela Davis",
+    "Poem Title":"The Songbird’s Daughter"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Jeanne Wagner",
+    "Poem Title":"A History of Uneven Exposure"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Sandra Kohler",
+    "Poem Title":"The Air"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"Sandra Kohler",
+    "Poem Title":"Good Friday"
+  },
+ {
+    "Node":"Poetry",
+    "Author Name":"M.G. Parham",
+    "Poem Title":"Ruminations After a Hysterectomy Reason Enough"
+  },
+ {
+    "Node":"Art",
+    "Artist’s Name":"Sara Kirschenbaum",
+    "Artwork Title":"Pears"
+  },
+{
+    "Node":"Art",
+    "Artist’s Name":"Michelle Brady",
+    "Artwork Title":"Cookie Bunnies"
+  },
+{
+    "Node":"Art",
+    "Artist’s Name":"Michelle Brady",
+    "Artwork Title":"Self-Portrait"
+  },
+{
+    "Node":"Art",
+    "Artist’s Name":"Megan Chapman",
+    "Artwork Title":"He did the impossible"
+  },
+{
+    "Node":"Art",
+    "Artist’s Name":"Megan Chapman",
+    "Artwork Title":"Home"
+  },
+{
+    "Node":"Art",
+    "Artist’s Name":"April Dobbins",
+    "Artwork Title":"Self-Portrait, Spring"
+  },
+{
+    "Node":"Art",
+    "Artist’s Name":"April Dobbins",
+    "Artwork Title":"Aunt Pearl’s Watermelon #2 (cover)"
+  },
+{
+    "Node":"Art",
+    "Artist’s Name":"Cynthia Spencer",
+    "Artwork Title":"Trophy Wife"
+  },
+{
+    "Node":"Art",
+    "Artist’s Name":"Cynthia Spencer",
+    "Artwork Title":"Meditation on Going"
+  },
+{
+    "Node":"Art",
+    "Artist’s Name":"Elizabeth Wharton",
+    "Artwork Title":"Apple"
+  },
+{
+    "Node":"Art",
+    "Artist’s Name":"Elizabeth Wharton",
+    "Artwork Title":"Blue Board"
+  },
+{
+    "Node":"Art",
+    "Artist’s Name":"Katrina Pallop",
+    "Artwork Title":"October"
+  },
+{
+    "Node":"Art",
+    "Artist’s Name":"Katrina Pallop",
+    "Artwork Title":"September"
+  },
+{
+    "Node":"Art",
+    "Artist’s Name":"Katrina Pallop",
+    "Artwork Title":"The Breakers"
+  },
+{
+    "Node":"Art",
+    "Artist’s Name":"Katrina Pallop",
+    "Artwork Title":"Plymouth"
+  },
+{
+    "Node":"Art",
+    "Artist’s Name":"Leah Kosh",
+    "Artwork Title":"From the Center"
+  },
+{
+    "Node":"Creative Nonfiction",
+    "Artist’s Name":"Rosa del Duca",
+    "Artwork Title":"The Script"
+  }
+]
+,
+"links": []
+}

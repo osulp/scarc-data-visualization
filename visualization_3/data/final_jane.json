@@ -1,0 +1,772 @@
+{
+  "nodes": [
+  {
+    "id": "Fiction"
+  },
+  {
+    "id": "Poetry"
+  },
+  {
+    "id": "Art"
+  },
+  {
+    "id": "Creative Nonfiction"
+  },
+
+  {
+    "id": "Rita Chang"
+  },
+  {
+    "id": "Irene Keliher"
+  },
+  {
+    "id": "Lisa Blackwell"
+  },
+  {
+    "id": "Wendy Breuer"
+  },
+  {
+    "id": "Bethany Reid"
+  },
+  {
+    "id": "Rochelle Hurt"
+  },
+  {
+    "id": "Terry Godbey"
+  },
+  {
+    "id": "Shawna Thompson"
+  },
+  {
+    "id": "Ann Howells"
+  },
+  {
+    "id": "Elizabeth Burk"
+  },
+  {
+    "id": "M.L. Brown"
+  },
+  {
+    "id": "Kathleen A. Kelly"
+  },
+  {
+    "id": "Melisa Cahnmann-Taylor"
+  },
+  {
+    "id": "Catherine Thompson"
+  },
+  {
+    "id": "Linnea Harper"
+  },
+  {
+    "id": "Virginia Bell"
+  },
+  {
+    "id": "Eugenia Leigh"
+  },
+  {
+    "id": "Lavonne J. Adams"
+  },
+  {
+    "id": "Molly Spencer"
+  },
+  {
+    "id": "Sarah Rossiter"
+  },
+  {
+    "id": "Judy Ireland"
+  },
+  {
+    "id": "Jennifer Fandel"
+  },
+  {
+    "id": "Aisha Sharif"
+  },
+  {
+    "id": "Melissa Holmes"
+  },
+  {
+    "id": "Tamiko Beyer"
+  },
+  {
+    "id": "Joan Manheimer"
+  },
+  {
+    "id": "Donna Coffey"
+  },
+  {
+    "id": "Amanda Mead"
+  },
+  {
+    "id": "Darlene Pagan"
+  },
+  {
+    "id": "Penelope La Montagne"
+  },
+  {
+    "id": "Margaret Hasse"
+  },
+  {
+    "id": "Pamela Davis"
+  },
+  {
+    "id": "Jeanne Wagner"
+  },
+  {
+    "id": "Sandra Kohler"
+  },
+  {
+    "id": "M.G. Parham"
+  },
+  {
+    "id": "Sara Kirschenbaum"
+  },
+  {
+    "id": "Michelle Brady"
+  },
+  {
+    "id": "Megan Chapman"
+  },
+  {
+    "id": "April Dobbins"
+  },
+  {
+    "id": "Cynthia Spencer"
+  },
+  {
+    "id": "Elizabeth Wharton"
+  },
+  {
+    "id": "Katrina Pallop"
+  },
+  {
+    "id": "Leah Kosh"
+  },
+  {
+    "id": "Rosa del Duca"
+  },
+  {
+    "id": "The Vestige"
+  },
+  {
+    "id": "Alaska"
+  },
+  {
+    "id": "Looks Good on Paper"
+  },
+  {
+    "id": "The Museum of Analog Antiquities"
+  },
+  {
+    "id": "The Apple Orchard"
+  },
+  {
+    "id": "Reading Whitman in the Chemo Room"
+  },
+  {
+    "id": "I Fell in Love with an Octopus"
+  },
+  {
+    "id": "Chemo Brain"
+  },
+  {
+    "id": "under the willows"
+  },
+  {
+    "id": "Winter in Louisiana"
+  },
+  {
+    "id": "Uncle Hershey 1954"
+  },
+  {
+    "id": "If This Looks Odd"
+  },
+  {
+    "id": "Provenance: A Sestina"
+  },
+  {
+    "id": "After Reading a Letter from the Addict"
+  },
+  {
+    "id": "My Brother Who Doesn’t Speak to Our Mother Comes"
+  },
+  {
+    "id": "Bitter Melons"
+  },
+  {
+    "id": "The Name He Made You"
+  },
+  {
+    "id": "No Words for These Matters"
+  },
+  {
+    "id": "Impossible Questions"
+  },
+  {
+    "id": "Disparity"
+  },
+  {
+    "id": "A Wendy House"
+  },
+  {
+    "id": "Woman in a White Truck, Driving"
+  },
+  {
+    "id": "Thoughts on Gay Marriage, While Visiting My Lover’s Parents"
+  },
+  {
+    "id": "The Death of Chang and Eng, 1811-1874"
+  },
+  {
+    "id": "Layl-tul-Qadr (The Night of Power)"
+  },
+  {
+    "id": "Approaching the Solstice"
+  },
+  {
+    "id": "after ten years, a net"
+  },
+  {
+    "id": "Red Riding"
+  },
+  {
+    "id": "Saint Margaret"
+  },
+  {
+    "id": "Man Deemed Not Guilty of Rape Due to Skinny Jeans"
+  },
+  {
+    "id": "Anatomy of a Girl"
+  },
+  {
+    "id": "Women of a Certain Age"
+  },
+  {
+    "id": "How Does the Dog Spend Her Day?"
+  },
+  {
+    "id": "Guardian"
+  },
+  {
+    "id": "The Songbird’s Daughter"
+  },
+  {
+    "id": "A History of Uneven Exposure"
+  },
+  {
+    "id": "The Air"
+  },
+  {
+    "id": "Good Friday"
+  },
+  {
+    "id": "Ruminations After a Hysterectomy Reason Enough"
+  },
+  {
+    "id": "Pears"
+  },
+  {
+    "id": "Cookie Bunnies"
+  },
+  {
+    "id": "Self-Portrait"
+  },
+  {
+    "id": "He did the impossible"
+  },
+  {
+    "id": "Home"
+  },
+  {
+    "id": "Self-Portrait, Spring"
+  },
+  {
+    "id": "Aunt Pearl’s Watermelon #2 (cover)"
+  },
+  {
+    "id": "Trophy Wife"
+  },
+  {
+    "id": "Meditation on Going"
+  },
+  {
+    "id": "Apple"
+  },
+  {
+    "id": "Blue Board"
+  },
+  {
+    "id": "October"
+  },
+  {
+    "id": "September"
+  },
+  {
+    "id": "The Breakers"
+  },
+  {
+    "id": "Plymouth"
+  },
+  {
+    "id": "From the Center"
+  },
+  {
+    "id": "The Script"
+  }
+
+  ],
+    "links": [
+    {
+      "source": "The Vestige",
+      "target": "Fiction"
+    },
+    {
+      "source": "Alaska",
+      "target": "Fiction"
+    },
+    {
+      "source": "Looks Good on Paper",
+      "target": "Fiction"
+    },
+    {
+      "source": "The Museum of Analog Antiquities",
+      "target": "Fiction"
+    },
+    {
+      "source": "The Apple Orchard",
+      "target": "Poetry"
+    },
+    {
+      "source": "Reading Whitman in the Chemo Room",
+      "target": "Poetry"
+    },
+    {
+      "source": "I Fell in Love with an Octopus",
+      "target": "Poetry"
+    },
+    {
+      "source": "Chemo Brain",
+      "target": "Poetry"
+    },
+    {
+      "source": "under the willows",
+      "target": "Poetry"
+    },
+    {
+      "source": "Winter in Louisiana",
+      "target": "Poetry"
+    },
+    {
+      "source": "Uncle Hershey 1954",
+      "target": "Poetry"
+    },
+    {
+      "source": "If This Looks Odd",
+      "target": "Poetry"
+    },
+    {
+      "source": "Provenance: A Sestina",
+      "target": "Poetry"
+    },
+    {
+      "source": "After Reading a Letter from the Addict",
+      "target": "Poetry"
+    },
+    {
+      "source": "My Brother Who Doesn’t Speak to Our Mother Comes",
+      "target": "Poetry"
+    },
+    {
+      "source": "Bitter Melons",
+      "target": "Poetry"
+    },
+    {
+      "source": "The Name He Made You",
+      "target": "Poetry"
+    },
+    {
+      "source": "No Words for These Matters",
+      "target": "Poetry"
+    },
+    {
+      "source": "Impossible Questions",
+      "target": "Poetry"
+    },
+    {
+      "source": "Disparity",
+      "target": "Poetry"
+    },
+    {
+      "source": "A Wendy House",
+      "target": "Poetry"
+    },
+    {
+      "source": "Woman in a White Truck, Driving",
+      "target": "Poetry"
+    },
+    {
+      "source": "Thoughts on Gay Marriage, While Visiting My Lover’s Parents",
+      "target": "Poetry"
+    },
+    {
+      "source": "The Death of Chang and Eng, 1811-1874",
+      "target": "Poetry"
+    },
+    {
+      "source": "Layl-tul-Qadr (The Night of Power)",
+      "target": "Poetry"
+    },
+    {
+      "source": "Approaching the Solstice",
+      "target": "Poetry"
+    },
+    {
+      "source": "after ten years, a net",
+      "target": "Poetry"
+    },
+    {
+      "source": "Red Riding",
+      "target": "Poetry"
+    },
+    {
+      "source": "Saint Margaret",
+      "target": "Poetry"
+    },
+    {
+      "source": "Man Deemed Not Guilty of Rape Due to Skinny Jeans",
+      "target": "Poetry"
+    },
+    {
+      "source": "Anatomy of a Girl",
+      "target": "Poetry"
+    },
+    {
+      "source": "Women of a Certain Age",
+      "target": "Poetry"
+    },
+    {
+      "source": "How Does the Dog Spend Her Day?",
+      "target": "Poetry"
+    },
+    {
+      "source": "Guardian",
+      "target": "Poetry"
+    },
+    {
+      "source": "The Songbird’s Daughter",
+      "target": "Poetry"
+    },
+    {
+      "source": "A History of Uneven Exposure",
+      "target": "Poetry"
+    },
+    {
+      "source": "The Air",
+      "target": "Poetry"
+    },
+    {
+      "source": "Good Friday",
+      "target": "Poetry"
+    },
+    {
+      "source": "Ruminations After a Hysterectomy Reason Enough",
+      "target": "Poetry"
+    },
+    {
+      "source": "Pears",
+      "target": "Art"
+    },
+    {
+      "source": "Cookie Bunnies",
+      "target": "Art"
+    },
+    {
+      "source": "Self-Portrait",
+      "target": "Art"
+    },
+    {
+      "source": "He did the impossible",
+      "target": "Art"
+    },
+    {
+      "source": "Home",
+      "target": "Art"
+    },
+    {
+      "source": "Self-Portrait, Spring",
+      "target": "Art"
+    },
+    {
+      "source": "Aunt Pearl’s Watermelon #2 (cover)",
+      "target": "Art"
+    },
+    {
+      "source": "Trophy Wife",
+      "target": "Art"
+    },
+    {
+      "source": "Meditation on Going",
+      "target": "Art"
+    },
+    {
+      "source": "Apple",
+      "target": "Art"
+    },
+    {
+      "source": "Blue Board",
+      "target": "Art"
+    },
+    {
+      "source": "October",
+      "target": "Art"
+    },
+    {
+      "source": "September",
+      "target": "Art"
+    },
+    {
+      "source": "The Breakers",
+      "target": "Art"
+    },
+    {
+      "source": "Plymouth",
+      "target": "Art"
+    },
+    {
+      "source": "From the Center",
+      "target": "Art"
+    },
+    {
+      "source": "The Script",
+      "target": "Creative Nonfiction"
+    },
+    {
+      "source": "The Vestige",
+      "target": "Rita Chang"
+    },
+    {
+      "source": "Alaska",
+      "target": "Irene Keliher"
+    },
+    {
+      "source": "Looks Good on Paper",
+      "target": "Lisa Blackwell"
+    },
+    {
+      "source": "The Museum of Analog Antiquities",
+      "target": "Wendy Breuer"
+    },
+    {
+      "source": "The Apple Orchard",
+      "target": "Bethany Reid"
+    },
+    {
+      "source": "Reading Whitman in the Chemo Room",
+      "target": "Rochelle Hurt"
+    },
+    {
+      "source": "I Fell in Love with an Octopus",
+      "target": "Terry Godbey"
+    },
+    {
+      "source": "Chemo Brain",
+      "target": "Shawna Thompson"
+    },
+    {
+      "source": "under the willows",
+      "target": "Ann Howells"
+    },
+    {
+      "source": "Winter in Louisiana",
+      "target": "Elizabeth Burk"
+    },
+    {
+      "source": "Uncle Hershey 1954",
+      "target": "Elizabeth Burk"
+    },
+    {
+      "source": "If This Looks Odd",
+      "target": "M.L. Brown"
+    },
+    {
+      "source": "Provenance: A Sestina",
+      "target": "Kathleen A. Kelly"
+    },
+    {
+      "source": "After Reading a Letter from the Addict",
+      "target": "Melisa Cahnmann-Taylor"
+    },
+    {
+      "source": "My Brother Who Doesn’t Speak to Our Mother Comes",
+      "target": "Melisa Cahnmann-Taylor"
+    },
+    {
+      "source": "Bitter Melons",
+      "target": "Catherine Thompson"
+    },
+    {
+      "source": "The Name He Made You",
+      "target": "Linnea Harper"
+    },
+    {
+      "source": "No Words for These Matters",
+      "target": "Virginia Bell"
+    },
+    {
+      "source": "Impossible Questions",
+      "target": "Eugenia Leigh"
+    },
+    {
+      "source": "Disparity",
+      "target": "Lavonne J. Adams"
+    },
+    {
+      "source": "A Wendy House",
+      "target": "Molly Spencer"
+    },
+    {
+      "source": "Woman in a White Truck, Driving",
+      "target": "Sarah Rossiter"
+    },
+    {
+      "source": "Thoughts on Gay Marriage, While Visiting My Lover’s Parents",
+      "target": "Judy Ireland"
+    },
+    {
+      "source": "The Death of Chang and Eng, 1811-1874",
+      "target": "Jennifer Fandel"
+    },
+    {
+      "source": "Layl-tul-Qadr (The Night of Power)",
+      "target": "Aisha Sharif"
+    },
+    {
+      "source": "Approaching the Solstice",
+      "target": "Melissa Holmes"
+    },
+    {
+      "source": "after ten years, a net",
+      "target": "Tamiko Beyer"
+    },
+    {
+      "source": "Red Riding",
+      "target": "Joan Manheimer"
+    },
+    {
+      "source": "Saint Margaret",
+      "target": "Donna Coffey"
+    },
+    {
+      "source": "Man Deemed Not Guilty of Rape Due to Skinny Jeans",
+      "target": "Amanda Mead"
+    },
+    {
+      "source": "Anatomy of a Girl",
+      "target": "Darlene Pagan"
+    },
+    {
+      "source": "Women of a Certain Age",
+      "target": "Penelope La Montagne"
+    },
+    {
+      "source": "Women of a Certain Age",
+      "target": "Shawna Thompson"
+    },
+    {
+      "source": "How Does the Dog Spend Her Day?",
+      "target": "Margaret Hasse"
+    },
+    {
+      "source": "Guardian",
+      "target": "Pamela Davis"
+    },
+    {
+      "source": "The Songbird’s Daughter",
+      "target": "Pamela Davis"
+    },
+    {
+      "source": "A History of Uneven Exposure",
+      "target": "Jeanne Wagner"
+    },
+    {
+      "source": "The Air",
+      "target": "Sandra Kohler"
+    },
+    {
+      "source": "Good Friday",
+      "target": "Sandra Kohler"
+    },
+    {
+      "source": "Ruminations After a Hysterectomy Reason Enough",
+      "target": "M.G. Parham"
+    },
+    {
+      "source": "Pears",
+      "target": "Sara Kirschenbaum"
+    },
+    {
+      "source": "Cookie Bunnies",
+      "target": "Michelle Brady"
+    },
+    {
+      "source": "Self-Portrait",
+      "target": "Michelle Brady"
+    },
+    {
+      "source": "He did the impossible",
+      "target": "Megan Chapman"
+    },
+    {
+      "source": "Home",
+      "target": "Megan Chapman"
+    },
+    {
+      "source": "Self-Portrait, Spring",
+      "target": "April Dobbins"
+    },
+    {
+      "source": "Aunt Pearl’s Watermelon #2 (cover)",
+      "target": "April Dobbins"
+    },
+    {
+      "source": "Trophy Wife",
+      "target": "Cynthia Spencer"
+    },
+    {
+      "source": "Meditation on Going",
+      "target": "Cynthia Spencer"
+    },
+    {
+      "source": "Apple",
+      "target": "Elizabeth Wharton"
+    },
+    {
+      "source": "Blue Board",
+      "target": "Elizabeth Wharton"
+    },
+    {
+      "source": "October",
+      "target": "Katrina Pallop"
+    },
+    {
+      "source": "September",
+      "target": "Katrina Pallop"
+    },
+    {
+      "source": "The Breakers",
+      "target": "Katrina Pallop"
+    },
+    {
+      "source": "Plymouth",
+      "target": "Katrina Pallop"
+    },
+    {
+      "source": "From the Center",
+      "target": "Leah Kosh"
+    },
+    {
+      "source": "The Script",
+      "target": "Rosa del Duca"
+    }
+  ]
+}
