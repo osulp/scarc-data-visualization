@@ -1,0 +1,12 @@
+{
+  "name": "scarc-data-visualization",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/osulp/scarc-data-visualization",
+  "author": "Josh Gum <revgum@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.6.2",
+    "serve-static": "^1.12.3"
+  }
+}
